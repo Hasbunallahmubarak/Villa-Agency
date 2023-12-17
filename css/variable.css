@@ -1,0 +1,20 @@
+:root{
+	--main : #999;
+	--normalColor: #222;
+	--secondColor: #f35526;
+	--thirdColor: #444;
+	--fourthColor: #000;
+	--backColor: #fff;
+	--heading: 700;
+	--accColor: #f9f9f9;
+	--accLink: 	 #3399ff;
+}
+@font-face {
+	font-family: definedFont;
+	src: url(../webfonts/fa-regular-400.woff2);
+}
+@font-face {
+	font-family: definedFont;
+	src: url(../webfonts/fa-solid-900.woff2);
+	font-weight: bold;
+}
